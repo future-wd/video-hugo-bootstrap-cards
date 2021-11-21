@@ -12,5 +12,3 @@ Sample Content
 - List 2
 
 - List 3
-
-[About Page]({{< ref "about/" >}} "About us link")
